@@ -5,9 +5,9 @@ I am a young developer from the Netherlands. My online nickname is RenderMelon. 
 [website](https://rubenuijtdewilligen.com/) | [public host](https://rbn.wtf/) |  [company](https://melontilt.com/)
 
 ## ☕ Let's chat!
-Email: ruben@uijtdewilligenbv.nl
-Twitter: [@RenderMelon](https://twitter.com/rendermelon/)
-Instagram: [@rubenuijtdewilligen](https://instagram.com/rubenuijtdewilligen/)
+Email: ruben@uijtdewilligenbv.nl\
+Twitter: [@RenderMelon](https://twitter.com/rendermelon/)\
+Instagram: [@rubenuijtdewilligen](https://instagram.com/rubenuijtdewilligen/)\
 Discord: RenderMelon#1234
 
 ## 📊 Statistics
