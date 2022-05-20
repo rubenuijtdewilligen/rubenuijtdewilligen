@@ -15,6 +15,6 @@ Discord: RenderMelon#1234
 ## 📊 Statistics
 ![Profile views](https://komarev.com/ghpvc/?username=rubenuijtdewilligen&style=flat-square&color=blueviolet)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenuijtdewilligen&langs_count=8&layout=compact&card_width=445&bg_color=1F1D2EFF&text_color=FDFDFDFF&title_color=EA9A97&hide_border=true)
+![Top languages](https://github-readme-stats-sepia-delta.vercel.app/api/top-langs/?username=rubenuijtdewilligen&langs_count=8&layout=compact&card_width=445&bg_color=1F1D2EFF&text_color=FDFDFDFF&title_color=EA9A97&hide_border=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubenuijtdewilligen&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8)
